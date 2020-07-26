@@ -1,0 +1,2 @@
+# DSS
+Project for DSS, UMINHO 2019/2020
